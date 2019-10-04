@@ -1872,6 +1872,7 @@ export interface NodeOptions {
   classification?: string;
   consequence?: any;
   supplyinfoid?: number;
+  connections?: any[];
 }
 
 export interface EdgeOptions {
