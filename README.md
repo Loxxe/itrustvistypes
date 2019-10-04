@@ -1,14 +1,7 @@
-# Installation
-> `npm install --save @types/vis`
-
-# Summary
-This package contains type definitions for vis.js (https://github.com/almende/vis).
-
 # Details
 Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/vis
 
 Additional Details
- * Last updated: Fri, 30 Nov 2018 21:10:53 GMT
  * Dependencies: @types/moment
  * Global values: vis
 
