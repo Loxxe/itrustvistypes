@@ -1858,12 +1858,12 @@ export interface NodeOptions {
   y?: number;
 
   description?: string;
-  owner?: Owner;
+  owner?: string;
   type?: string;
   frequency?: string;
   contains?: string[];
   confidentiality?: string;
-  contact?: Owner;
+  contact?: string;
   country?: Country;
   zipcode?: string;
   city?: string;
