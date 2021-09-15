@@ -15,7 +15,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 import { MomentInput, MomentFormatSpecification, Moment } from 'moment';
-import { Owner, Country } from '@app/_models';
+import { Owner, Country } from '../../../src/app/_models';
 export type MomentConstructor1 =
   (inp?: MomentInput, format?: MomentFormatSpecification, strict?: boolean) => Moment;
 export type MomentConstructor2 =
